@@ -102,12 +102,7 @@ This project showcases a complete multi-agent architecture involving data ingest
 
 ## 🔹 How to Run (Locally)
 
-### 1. Clone & Install
-```bash
-git clone https://github.com/yourname/finance_assistant.git
-cd finance_assistant
-pip install -r requirements.txt
-```
+### 1.Open google drive link [Google Drive Link](https://drive.google.com/drive/folders/1gYD3xFzz981ewxBMlAOfm5NHm0oLcR0o?usp=drive_link) 
 
 ### 2. Run Agents
 ```bash
